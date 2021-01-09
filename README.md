@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! My name is Jonas and I work for Swisscom, while also studying Computer Science at the Swiss Distance UAS. Here is my readme:
+My name is Jonas and here is my readme:
 
 #### Favourite Languages
 1. ![Kotlin](https://img.shields.io/badge/Kotlin-1B2529?logo=kotlin&style=flat-square)
@@ -19,7 +19,7 @@ Honorary mentions: ![Haskell](https://img.shields.io/badge/Haskell-1B2529?logo=h
 
 #### Social
 
-Feel free to hit me up on LinkedIn or challenge me on CodeWars.
+Feel free to have a look at my LinkedIn profile or challenge me on CodeWars.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jonas-augsburger-9005a09a)
 [![CodeWars](https://img.shields.io/badge/CodeWars--red?logo=codewars&style=for-the-badge)](https://www.codewars.com/users/jaysuz)
